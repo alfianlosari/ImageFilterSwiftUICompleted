@@ -1,0 +1,6 @@
+framework module Pods_ImageFilterSwiftUIiOS {
+  umbrella header "Pods-ImageFilterSwiftUIiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
